@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "German"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4ae07a92-0e99-b303-e126-1ce5de0f6429"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "German III",
+  "course_description": "This course expands skills in speaking, reading, listening, and writing. Students develop analytic and interpretative skills through the reading of a full-length drama as well as short prose and poetry (Biermann, Brecht, D\u00fcrrenmatt, Tawada and others) and through media selections on contemporary issues in German-speaking cultures. Coursework includes discussions and compositions based on these texts, and review of grammar and development of vocabulary-building strategies. It is recommended for students with two years of high school German.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.403",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
